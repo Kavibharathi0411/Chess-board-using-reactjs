@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import "./index.css";
 
 function Chessboard() {
-  // Initial board setup with Unicode chess pieces
   const board = [
     ["♜", "♞", "♝", "♛", "♚", "♝", "♞", "♜"],
     ["♟", "♟", "♟", "♟", "♟", "♟", "♟", "♟"],
